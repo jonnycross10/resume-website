@@ -493,11 +493,11 @@ footer {
 	padding: 40px 0 0 0;
 	background: #444;
 	color: #aaa;
-	text-align: left;
+	text-align: center;
 }
 
-.footer-left a { color: #ddd; border-bottom: 1px dashed #ddd; }
-.footer-left a:hover, .footer-left a:focus { color: #ddd; border: 0; }
+.footer-middle a { color: #ddd; border-bottom: 1px dashed #ddd; text-align: center;}
+.footer-middle a:hover, .footer-middle a:focus { color: #ddd; border: 0; }
 
 .footer-right {
 	text-align: right;
