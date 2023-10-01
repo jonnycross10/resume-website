@@ -245,6 +245,9 @@ img { max-width: 100%; }
 	padding: 0 0 10px 0;
 }
 
+.skills-box p {
+	font-size: 18px;
+}
 
 /***** About us *****/
 
